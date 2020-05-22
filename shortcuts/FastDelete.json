@@ -1,6 +1,6 @@
 {
   "command": "\"C:\\Program Files\\nodejs\\npx\" \"del-cli\" \"%v\"",
-  "description": "Remove faster than windows! Requires nodejs. Requires to install 'npm install -g del-cli' to be really fast!",
+  "description": "Remove faster than windows! Requires nodejs. Install 'npm install -g del-cli' to be even faster!",
   "deskEnv": false,
   "dirBkgEnv": false,
   "dirEnv": true,
