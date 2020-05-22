@@ -1,5 +1,5 @@
 {
-  "command": "\"C:\\Program Files\\nodejs\\npx\" \"del-cli\" \"%1\"",
+  "command": "\"C:\\Program Files\\nodejs\\npx\" \"del-cli\" \"%v\"",
   "description": "Remove faster than windows! Requires nodejs. Requires to install 'npm install -g del-cli' to be really fast!",
   "deskEnv": false,
   "dirBkgEnv": false,
